@@ -1,0 +1,60 @@
+
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #eee;
+}
+header {
+    margin-top: -8px;
+    padding-top: 0px;
+height: 66px;
+background-color: #6d8adbc7;
+width: 1400px;
+margin-left: -8px;
+}
+h1{
+    margin-top: 0px;
+    padding: 0px;
+    text-align: center;
+    padding-top: 15px;
+    color:floralwhite;
+
+}
+#form{
+    width:393px;
+    height: 288px;
+    background-color: #dae4ff;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+label{
+    font-weight: bold;
+    display: inline-block;
+    margin-left: 10px;
+    margin: 10px;
+}
+#date {
+    margin-left: -262px;
+}
+input{
+    width: 300px;
+}
+#submit{
+    float:right;
+     background-color:#6d8adbc7 ;
+     width: 69px;
+     height: 39px;
+     color: floralwhite;
+     margin-right: 46px;
+     margin-top: 10px;
+
+}
+#list
+{
+    width:393px;
+    height: 288px;
+    float: right;
+    margin-top: -274px;
+    margin-left: 40px;
+
+}
